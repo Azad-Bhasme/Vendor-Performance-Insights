@@ -1,4 +1,4 @@
-# Vendor-Performance-Insights
+# Vendor-Performance-Insights **🔰**
 
 This project delivers a comprehensive **Vendor Performance Analysis** by consolidating SQL data, cleaning and transforming it in Python, calculating key performance metrics, and visualizing insights through Power BI. The aim is to help businesses optimize procurement, improve vendor management, and make data-driven decisions.
 
